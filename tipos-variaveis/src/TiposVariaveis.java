@@ -1,7 +1,7 @@
 public class TiposVariaveis {
     public static void main(String[] args) {
         
-        final String NOME = "Matheus J. de Luna";
+        final String NOME = "-- Matheus J. de Luna --";
         
         double salarioMinimo = 2500;
         short numeroCurto = 1;
